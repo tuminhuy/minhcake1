@@ -69,7 +69,8 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/hero-bg.jpg);
+  //background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/nen.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
